@@ -1,5 +1,43 @@
 body{
-    font-size: 11px; text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 11px; 
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
     
 }  
+main{
+    background-color:hsl(212, 45%, 89%);
+    height: 100%;
+}    
 
+
+#conteiner{
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: hsl(0, 0%, 100%);
+    width: 225px;
+    padding: 12px;
+}
+img{
+    width: 225px;
+    border-radius: 10px;
+}
+
+#texto{
+    width: 180px;
+    text-align: center;
+}
+#textoG{
+    font-size: 15px;
+    font-weight: 700;
+    color:hsl(218, 44%, 22%);
+}
+#textoM{
+    font-weight: 400;
+    color:hsl(220, 15%, 55%);
+}
