@@ -22,15 +22,16 @@ main{
     background-color: hsl(0, 0%, 100%);
     width: 225px;
     padding: 12px;
+    padding-bottom: 25px;
 }
 img{
     width: 225px;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 
 #texto{
-    width: 180px;
-    text-align: center;
+    width: 200px;
+    margin: auto;
 }
 #textoG{
     font-size: 15px;
