@@ -30,15 +30,17 @@ img{
 
 #texto{
     margin: auto;
+    width: 200px;
 }
 #textoG{
+    margin-top: 17px;
     color:hsl(218, 44%, 22%);
-    font-size: 18px;
+    font-size: 17px;
     
 }
 #textoM{
     color:hsl(220, 15%, 55%);
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 400;
 
 }
